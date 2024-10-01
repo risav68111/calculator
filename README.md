@@ -1,3 +1,3 @@
-Simple calculator with java. /n
-UI calculator made for practice
-maven for dependencies
+Simple calculator with java. <br />
+UI calculator made for practice <br />
+maven for dependencies <br />
